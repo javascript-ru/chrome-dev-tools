@@ -4,10 +4,9 @@
 
 
 ## Console
- - log, info, warn, error
- - assert()
- - group(name)/.groupEnd()
- - groupCollapsed()
+ - .log(), .info(), .warn(), .error()
+ - .assert()
+ - .group(name)/.groupEnd(name)/.groupCollapsed()
  - time() / timeEnd()
  - count(label)
  - trace()  
